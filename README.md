@@ -5,3 +5,4 @@
 
 
 # 试验 cherry-pick
+# git cherry-pick <commitHash>
